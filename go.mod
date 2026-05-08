@@ -1,4 +1,4 @@
-module github.com/dzungtran/echo-rest-api
+module github.com/ramadhantriyant/didactic-tribble
 
 go 1.25.0
 

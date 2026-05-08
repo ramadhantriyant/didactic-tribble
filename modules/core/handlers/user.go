@@ -1,10 +1,10 @@
 package handlers
 
 import (
-	"github.com/dzungtran/echo-rest-api/modules/core/usecases"
-	"github.com/dzungtran/echo-rest-api/pkg/contexts"
-	"github.com/dzungtran/echo-rest-api/pkg/middlewares"
-	"github.com/dzungtran/echo-rest-api/pkg/wrapper"
+	"github.com/ramadhantriyant/didactic-tribble/modules/core/usecases"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/contexts"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/middlewares"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/wrapper"
 	"github.com/labstack/echo/v4"
 )
 

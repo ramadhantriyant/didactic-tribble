@@ -11,8 +11,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/dzungtran/echo-rest-api/pkg/logger"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/logger"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/utils"
 	"github.com/gertd/go-pluralize"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"

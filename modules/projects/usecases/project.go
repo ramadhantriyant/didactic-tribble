@@ -3,12 +3,12 @@ package usecases
 import (
 	"context"
 
-	"github.com/dzungtran/echo-rest-api/modules/projects/domains"
-	"github.com/dzungtran/echo-rest-api/modules/projects/dto"
-	"github.com/dzungtran/echo-rest-api/modules/projects/repositories"
-	"github.com/dzungtran/echo-rest-api/pkg/contexts"
-	"github.com/dzungtran/echo-rest-api/pkg/cue"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/ramadhantriyant/didactic-tribble/modules/projects/domains"
+	"github.com/ramadhantriyant/didactic-tribble/modules/projects/dto"
+	"github.com/ramadhantriyant/didactic-tribble/modules/projects/repositories"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/contexts"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/cue"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/utils"
 	"github.com/jinzhu/copier"
 )
 

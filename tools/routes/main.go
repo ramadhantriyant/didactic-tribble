@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/dzungtran/echo-rest-api/cmd/api/di"
-	"github.com/dzungtran/echo-rest-api/config"
-	"github.com/dzungtran/echo-rest-api/infrastructure/datastore"
-	"github.com/dzungtran/echo-rest-api/pkg/logger"
+	"github.com/ramadhantriyant/didactic-tribble/cmd/api/di"
+	"github.com/ramadhantriyant/didactic-tribble/config"
+	"github.com/ramadhantriyant/didactic-tribble/infrastructure/datastore"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/logger"
 	"github.com/labstack/echo/v4"
 )
 

@@ -6,13 +6,13 @@ import (
 	"context"
 	"errors"
 
-	"github.com/dzungtran/echo-rest-api/modules/core/domains"
-	"github.com/dzungtran/echo-rest-api/modules/core/dto"
-	"github.com/dzungtran/echo-rest-api/modules/core/repositories"
-	"github.com/dzungtran/echo-rest-api/pkg/contexts"
-	"github.com/dzungtran/echo-rest-api/pkg/cue"
-	sqlTools "github.com/dzungtran/echo-rest-api/pkg/sql-tools"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/ramadhantriyant/didactic-tribble/modules/core/domains"
+	"github.com/ramadhantriyant/didactic-tribble/modules/core/dto"
+	"github.com/ramadhantriyant/didactic-tribble/modules/core/repositories"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/contexts"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/cue"
+	sqlTools "github.com/ramadhantriyant/didactic-tribble/pkg/sql-tools"
+	"github.com/ramadhantriyant/didactic-tribble/pkg/utils"
 	"github.com/jinzhu/copier"
 )
 

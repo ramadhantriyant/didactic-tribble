@@ -172,7 +172,7 @@ Use `wrapper.Wrap()` for standardized responses:
 ```go
 package handlers
 
-import "github.com/dzungtran/echo-rest-api/pkg/wrapper"
+import "github.com/ramadhantriyant/didactic-tribble/pkg/wrapper"
 
 type Handler struct{}
 
